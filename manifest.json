@@ -2,7 +2,7 @@
   "name": "Line Memorization App",
   "short_name": "Memorize",
   "description": "A tool to help with line memorization",
-  "start_url": "/index.html",
+  "start_url": "LMA/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#bf4d97",
